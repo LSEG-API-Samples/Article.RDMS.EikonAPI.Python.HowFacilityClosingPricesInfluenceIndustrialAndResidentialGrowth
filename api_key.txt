@@ -1,0 +1,3 @@
+ ,value  
+eikon_api_key,YOUR_EIKON_DATA_API_KEY  
+RDMS_api_key,YOUR_RDMS_API_KEY
