@@ -41,7 +41,7 @@ At the end of this article, we will plot:
 4. We will use the Meta data from RDMS to populate the graph automatically
 5. Plot DA close price to observe correlations.
 
-#### Step 1 ) Premble
+#### Step 1 ) Preamble
 In this step, we do the package import, API keys loading (from text file api_key.txt), set up connections for RDMS and Eikon Data API, and define the Curve IDs and RICs that we're interested.
 - The RIC used in this example is TRNLTTFD1, which is the daily close price of TTF Gas. Below is its information in the Workspace application.
 - Curve IDs used here are the German actuals and forecasts of Methane gas of industrial and residenial below is their metadata printed out with the code in the notebook
